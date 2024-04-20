@@ -1,0 +1,48 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  max-width: 400px;
+  min-width: 400px;
+}
+
+div {
+  text-align: center;
+}
+
+h1, p, a {
+  font-family: sans-serif;
+}
+
+br {
+  display: block;
+  margin: 2px;
+}
+
+.title > a {
+  text-decoration: none;
+  color: black;
+}
+
+.title > a:active {
+  color: #0073cf;
+}
+
+.game_button {
+  display: block;
+  width: 300px;
+  background: #0073cf;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.choice {
+  margin: 4px;
+}
