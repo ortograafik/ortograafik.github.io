@@ -45,7 +45,10 @@
         <div id="multiple_choice"><div class="column"></div><div class="column"></div></div>
       </div>
       <div id="results_area" hidden></div>
-      <button id="replay_button" onclick="restart()" hidden>Mängi uuesti</button>
+      <div id="navigation_area" hidden>
+        <button id="replay_button" onclick="location.reload()">Mängi uuesti</button>
+        <a href="/index.html"><button id="return_button">Tagasi esilehele</button></a>
+      </div>
       <hr>
       <p id="footer">&copy; 2024 Kristofer Lill</p>
     </div>

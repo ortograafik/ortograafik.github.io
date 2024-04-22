@@ -83,7 +83,7 @@ select, button, .choice, #begin_button {
   background-color: #23395d;
 }
 
-select, #begin_button, #replay_button {
+select, #begin_button, #replay_button, #return_button {
   padding: 4px;
 }
 

@@ -13,11 +13,11 @@ let wrongGuesses = Array();
 
 let progressBar = document.getElementById("progress_bar");
 let audioButton = document.getElementById("audio_button");
-let replayButton = document.getElementById("replay_button");
 
 let setupArea = document.getElementById("setup_area");
 let gameArea = document.getElementById("game_area");
 let resultsArea = document.getElementById("results_area");
+let navigationArea = document.getElementById("navigation_area");
 
 let selectLevel = document.getElementById("select_level");
 let selectRounds = document.getElementById("select_rounds");
@@ -150,7 +150,7 @@ function resolveGuess(guess) {
 function endGame() {
   gameArea.hidden = true;
   resultsArea.hidden = false;
-  replayButton.hidden = false;
+  navigationArea.hidden = false;
   if (wrongGuesses.length == 0) {
     var desc = document.createElement("h2");
     var text = document.createTextNode("Kõik õigesti vastatud!");
@@ -178,17 +178,4 @@ function endGame() {
       };
     };
   };
-};
-
-function restart() {
-  resultsArea.removeChild(resultsArea.firstElementChild);
-  if (wrongGuesses.length > 0) { resultsArea.removeChild(resultsArea.firstElementChild); };
-  currentRound = 0;
-  shuffle(vocabulary);
-  wrongGuesses = Array();
-  setupProgressBar(rounds);
-  gameArea.hidden = false;
-  resultsArea.hidden = true;
-  replayButton.hidden = true;
-  setupRound();
 };
