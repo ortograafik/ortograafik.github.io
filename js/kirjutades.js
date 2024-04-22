@@ -13,7 +13,7 @@ function startRound() {
 };
 
 function checkEnter(event) {
-  if (event.code == "Enter") {
+  if (event.keyCode == 13) {
     makeGuess();
   };
 };

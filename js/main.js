@@ -113,7 +113,7 @@ async function setAudio(text) {
   };
   reader.readAsArrayBuffer(blob);
   startRound();
-  if (selectAutoplay.checked == true) { setTimeout(function() { playAudio(); }, 100); };
+  if (selectAutoplay.checked == true) { setTimeout(function() { playAudio(); }, 200); };
 };
 
 function playAudio() {

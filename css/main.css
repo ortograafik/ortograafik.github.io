@@ -58,7 +58,7 @@ hr {
 }
 
 .hr_short {
-  width: 400px;
+  width: 80%;
 }
 
 .gamemode_select {
@@ -168,6 +168,7 @@ button, #begin_button {
 
 @media screen and (max-width: 500px) {
   #content {
+    max-width: 100%;
     min-width: 0px;
   }
   .choice {
