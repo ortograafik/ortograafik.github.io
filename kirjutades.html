@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ortograafik</title>
+    <link rel="icon" type="image/x-icon" href="/icons/favicon.svg">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="/js/papaparse.min.js"></script>
+  </head>
+  <body>
+    <div id="content">
+      <h1><a href="/index.html">Ortograafik</a></h1>
+      <h2>Eesti keele kuulamismängud</h2>
+      <p>Kuula ja kirjuta välja hääldatud sõnad</p>
+      <hr>
+      <form id="setup_area" action="javascript:setup()">
+        <label for="select_level">Keeletase:</label>
+        <select id="select_level">
+          <option value="Kõik">Kõik</option>
+          <option value="A1">A1</option>
+          <option value="A2">A2</option>
+          <option value="B1">B1</option>
+          <option value="B2">B2</option>
+          <option value="C1">C1</option>
+        </select>
+        <br>
+        <label for="select_rounds">Voorude arv:</label>
+        <select id="select_rounds">
+          <option value="5">5</option>
+          <option value="10">10</option>
+          <option value="15">15</option>
+          <option value="20">20</option>
+        </select>
+        <br>
+        <label for="select_autoplay">Heli automaatesitus:</label>
+        <input type="checkbox" id="select_autoplay" checked="true">
+        <br>
+        <input type="submit" id="begin_button" value="Alusta">
+      </form>
+      <div id="progress_bar" hidden></div>
+      <div id="game_area" hidden>
+        <button id="audio_button" onclick="playAudio()" disabled>Kuula kõnet</button>
+        <input type="text" id="input_field" onkeypress="checkEnter(event)" maxlength="18" placeholder="Kirjuta sõna...">
+        <button id="guess_button" onclick="makeGuess()" disabled>Arva</button>
+      </div>
+      <div id="results_area" hidden></div>
+      <button id="replay_button" onclick="restart()" hidden>Mängi uuesti</button>
+      <hr>
+      <p id="footer">&copy; 2024 Kristofer Lill</p>
+    </div>
+    <script src="/js/main.js"></script>
+    <script src="/js/kirjutades.js"></script>
+  </body>
+</html>

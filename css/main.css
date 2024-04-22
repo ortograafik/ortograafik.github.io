@@ -1,19 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+[hidden] {
+  display: none;
+}
+
 body {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
+  background-color: #152238;
 }
 
-.content {
-  max-width: 400px;
-  min-width: 400px;
-}
-
-div {
+#content {
+  max-width: 500px;
+  min-width: 500px;
   text-align: center;
+  font-family: "Varela Round";
+  color: white;
 }
 
-h1, p, a {
-  font-family: sans-serif;
+a, select, input, button {
+  font-family: "Varela Round";
+  color: white;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h1 > a {
+  text-decoration: none;
+  color: #23395d;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+p, label, select, input, button, .gamemode_select, .choice {
+  font-size: 20px;
 }
 
 br {
@@ -21,28 +48,129 @@ br {
   margin: 2px;
 }
 
-.title > a {
-  text-decoration: none;
-  color: black;
+hr {
+  margin-top: 26px;
+  margin-bottom: 26px;
+  border: none;
+  border-radius: 3px;
+  height: 4px;
+  background-color: #23395d;
 }
 
-.title > a:active {
-  color: #0073cf;
+.hr_short {
+  width: 400px;
 }
 
-.game_button {
+.gamemode_select {
   display: block;
   width: 300px;
-  background: #0073cf;
-  color: white;
   padding: 10px;
   margin: 10px;
   border-radius: 15px;
+  background: #23395d;
   text-decoration: none;
   margin-left: auto;
   margin-right: auto;
 }
 
-.choice {
+label, .choice {
   margin: 4px;
+}
+
+select, button, .choice, #begin_button {
+  border: none;
+  border-radius: 8px;
+  background-color: #23395d;
+}
+
+select, #begin_button, #replay_button {
+  padding: 4px;
+}
+
+select:hover, button:hover, #begin_button:hover {
+  background-color: #1c2e4a;
+}
+
+select, #select_autoplay {
+  margin-bottom: 16px;
+}
+
+#select_autoplay {
+  -webkit-transform: scale(1.3);
+  -moz-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  -o-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+button, #begin_button {
+  cursor: pointer;
+}
+
+#input_field, #audio_button, #guess_button {
+  margin: auto;
+  display: block;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  width: 256px;
+  height: 32px;
+}
+
+#audio_button, #guess_button, #replay_button {
+  color: white;
+}
+
+#input_field {
+  color: black;
+  text-align: center;
+}
+
+.progress_element {
+  width: 46px;
+}
+
+.undecided_icon {
+  filter: invert(19%) sepia(41%) saturate(818%) hue-rotate(178deg) brightness(95%) contrast(92%);
+}
+
+.correct_icon {
+  filter: invert(20%) sepia(99%) saturate(2016%) hue-rotate(125deg) brightness(82%) contrast(96%);
+}
+
+.incorrect_icon {
+  filter: invert(16%) sepia(75%) saturate(4458%) hue-rotate(342deg) brightness(79%) contrast(100%);
+}
+
+#multiple_choice, #results_area {
+  display: flex;
+  justify-content: center;
+}
+
+.column {
+  flex: 50%;
+}
+
+.choice {
+  margin: auto;
+  display: block;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  width: 200px;
+  height: 32px;
+  color: white;
+  cursor: pointer;
+}
+
+.choice:disabled, #audio_button:disabled, #guess_button:disabled {
+  opacity: 0.5;
+  cursor: auto;
+}
+
+@media screen and (max-width: 500px) {
+  #content {
+    min-width: 0px;
+  }
+  .choice {
+    width: 160px;
+  }
 }

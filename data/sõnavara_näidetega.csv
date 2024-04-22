@@ -17,7 +17,6 @@ abinõu,Kõiki võimalikke abinõusid on proovitud,"abitu, ainus, abitus, ainsus
 abitu,Kutsikas oli jäetud abitus seisundis tänavale vedelema,"abitus, ait, abiturient, ahistus, haritud",B2
 abiturient,Abiturientidel algasid viimased eksamid,"dirigent, labürint, patsient, assistent, intsident",B2
 abivahend,Esperanto ja teised tehiskeeled jäävad ikkagi vaid suhtlemise abivahendeiks,"vahend, kaitsevahend, sidevahend, vahendus, kavand",B2
-abort,Loomade aborti nimetatakse harilikult nurisünnituseks,"labor, raport, arst, borš, part",B2
 absoluutne,See oli kahepoolne absoluutne teineteise mõistmine,"absoluutselt, absurdne, vastuoluline, igasugune, omasugune",B2
 absoluutselt,Kosmonaudid peavad olema absoluutselt terved,"ajutiselt, oluliselt, suuliselt, algselt, alusetu",B2
 administraator,Võõrastemaja administraator,"administratsioon, administratiivne, diktaator, radiaator, indikaator",B1
@@ -33,7 +32,6 @@ aeglustama,Jooksja aeglustas tempot,"aeglustuma, alustama, elustama, austama, ha
 aeglustuma,Suudme lähedal jõe vool aeglustub,"alistuma, alustama, elustama, aeguma, astuma",B2
 aegumatu,Aegumatu väärtusega taies,"talumatu, jaguma, taguma, harjumatu, katkematu",C1
 aevastama,"Nohu on kange, muudkui nuuska ja aevasta","avastama, lavastama, vastama, relvastama, ahastama",B1
-afäär,Ärge laske end kahtlastesse afääridesse mässida,"sfäär, äär, atmosfäär, barjäär, Jäär",B2
 aga,"Kaupa on külluses, oleks aga raha","agar, taga, vaga, pagan, pagar",A1
 agar,Proua oli väga agar ajalehe kohta sõna võtma,"pagar, avar, baar, kaar, paar",C1
 agaralt,Lapsed olid agaralt tegevuses,"aparaat, targalt, vapralt, arvukalt, garantii",C1
@@ -94,11 +92,8 @@ algama,Tuleb uuesti otsast alata,"salgama, algatama, halama, jagama, magama",A1
 algkool,Poeg käib alles algkoolis,"alkohol, allpool, erakool, ülikool, alkoholism",B1
 algul,Möödunud sajandi algul,"algus, all, talgud, valgus, alla",B1
 algus,"Alguse asi, küllap pärast hakkab paremini minema","valgus, argus, magus, valus, valgusti",A1
-alimendid,Tal peetakse alimendid palgast kinni,"valimised, ametnik, leid, lend, lind",B2
 alistama,Jäähokis alistas Jugoslaavia Rootsi 3:1,"kallistama, valmistama, alistuma, alustama, talitama",B2
 alistuma,Meie esireketil tuli alistuda Inglismaa tugevale profimängijale,"valmistuma, astuma, istuma, linastuma, talvituma",B2
-alkohol,Alkoholi tarvitama,"alkoholism, alkohoolik, allpool, erakool, ülikool",A2
-alkoholism,Ta võitles alkoholismiga,"alkohoolik, koolitus, koolitama, lohistama, allilm",B2
 alla,Sügiseks saadi majale põrandad alla,"valla, alluma, kallak, kallal, kallas",A1
 allakäik,Ta allakäik on kiire ja valulik,"kallak, galaktika, jalakäija, külaskäik, allikas",B2
 allapoole,Temperatuur langes nullist allapoole,"allpool, tahapoole, kallale, väljapoole, poole",B1
@@ -140,16 +135,12 @@ apelsin,Apelsinid sisaldavad palju C-vitamiini,"happeline, apelsinimahl, pealinn
 apelsinimahl,Klaas apelsinimahla,"sidrunimahl, esinema, mainima, arestima, esindama",A2
 apteek,Käisin apteegist rohtu toomas,"apteeker, hüpoteek, aspekt, atleet, kapten",B1
 arendama,Eestis arendati välja võimas tööstus,"parendama, asendama, arveldama, lahendama, laiendama",B1
-arest,"Vara pandi aresti alla, varale pandi arest","arst, rest, arvesti, arust, vares",B2
-arestima,Arestitud vara,"arvestama, aretama, arvesti, reisima, rentima",B2
 aretama,See tõug aretati Tori Hobusekasvanduses,"arvestama, arutama, asetama, arvutama, harutama",B2
 argument,Selliseid argumente ei saa arvestada,"vastuargument, argumenteerima, armetu, baarmen, instrument",B2
 arheoloogiline,Arheoloogilised väljakaevamised,"geoloogiline, teoloogiline, ideoloogiline, loogiline, ökoloogiline",B2
 arhitektuur,Arhitektuuri saab õppida kunstiülikoolis,"arhitektuurne, karikatuur, tekstuur, prefektuur, kaitsetu",B2
 armastama,Mihkel ja Juuli armastavad teineteist kirglikult,"karastama, samastama, varastama, harrastama, karmistama",A1
 armastus,"Ei teinud seda raha pärast, vaid armastusest asja vastu","harrastus, avastus, matus, arvestus, arvustus",A1
-armukadedus,Püüab teist naist armukadedusest mustata,"kadedus, armuke, arukas, aruandlus, arvukas",B2
-armuke,Mees leidis naise armukesega voodist,"armuma, arukas, auk, marker, muskel",B1
 armuma,"Nad on teineteisesse pööraselt, kõrvuni armunud","varuma, arutama, harjuma, hirmuma, karjuma",B1
 aroom,Jasmiinide aroomist küllastatud aed,"parool, astronoom, farm, karm, loom",B2
 arsenal,Taimekaitsevahendite arsenal on täienenud,"kaenal, seal, paremal, varasemalt, arvel",B2
@@ -179,7 +170,6 @@ asi,See asi oli nii olnud juba ammusest ajast,"auasi, edasi, kasin, masin, sassi
 asjaolu,"Selgus uus, üllatav, ettenägemata, rõõmustav, tähtis asjaolu","asjatu, asjaosaline, asjatult, najal, vastuolu",B1
 asjaosaline,Kõik asjaosalised kuulati üle,"osaline, sõjaline, massiline, osalemine, klassikaline",C1
 asjatundja,Tavaline arst ei pruugi olla asjatundja kohtumeditsiini alalt,"asjatundlik, austatud, majandama, tasandama, astuma",B1
-asotsiaal,Mahajäetud majas pesitsevad asotsiaalid,"sotsiaalne, sotsiaalmaks, sotsialism, potentsiaal, spetsiaalne",B2
 aspekt,"Asjal on veel üks aspekt, mida peame arvestama","sekt, respekt, konspekt, inspektor, sektor",B2
 aste,Tööde mehhaniseerimise aste on väga erinev,"vaste, auaste, kast, kate, mast",B1
 astmeline,Gradatsioon ehk astmeline tõus,"vastumeelne, suhteline, suuteline, imeline, selline",B2
@@ -193,7 +183,6 @@ asuma,Külalised asusid minema,"lasuma, tasuma, asutama, kasuema, katsuma",A1
 asustama,See ala asustati peamiselt sunnitöölistega,"tasustama, asutama, austama, maksustama, kasutama",B2
 asustus,Kiviaegne asustus paiknes peamiselt veekogu rannikuil,"asutus, austus, kasutus, maiustus, otsustus",B2
 asutama,Asutasime juba magamaminekut,"kasutama, matsutama, paisutama, patsutama, ratsutama",B1
-ateist,"Järjekindel, veendunud ateist","kaksteist, test, teisalt, teisiti, tervist",B2
 atesteerima,Toodangut atesteerima,"tsiteerima, protesteerima, tsenseerima, raseerima, eksisteerima",B2
 atleet,Ta on üle kahe meetri pikk atleet,"palee, kotlet, kvaliteet, patent, talent",B2
 atmosfäär,Kosmoselaev jõudis Maa atmosfääri,"sfäär, määr, säär, vaatamisväärsus, autor",B2
@@ -239,13 +228,11 @@ bürokraat,Kõige ehtsam bürokraat,"bürokraatia, bürokraatlik, demokraat, kra
 büroo,Eurointegratsiooni büroo,"rool, roos, sündroom, kroon, proov",B1
 daam,Käitub nagu tõeline daam,"draama, jaam, raam, edastama, kraam",A2
 debüüt,Krusteni debüüt novellistina,"müüt, dieet, duett, menüü, süütu",C1
-deemon,Deemoni näiteks võib olla mingi tehisintellekti rakendus,"domeen, remont, edenema, eelmine, element",B2
 defekt,Fotoaparaadil ilmnesid defektid juba ostmisel,"efekt, efektne, prefekt, dieet, detektiiv",B2
 defitsiit,"Kaaviari on harva saada, see on defitsiit","deposiit, koefitsient, meditsiin, neitsi, visiit",B2
 deklaratsioon,Ametiisiku majanduslike huvide deklaratsioon,"dekoratsioon, tuludeklaratsioon, delegatsioon, föderatsioon, spekulatsioon",B2
 delegeerima,Selts delegeeris kongressile neli esindajat,"reageerima, legaliseerima, dirigeerima, genereerima, reguleerima",B2
 demonstreerima,Demonstreeriti parimaid lühifilme,"monteerima, rekonstrueerima, konstrueerima, kontsentreerima, emiteerima",B2
-depressioon,Kannatab depressiooni all,"sessioon, veresoon, versioon, pretensioon, retsensioon",B2
 detail,Plaan oli detailideni läbi mõeldud,"detailne, detailselt, edetabel, ideaal, metall",A2
 diagnoos,Haiguslehel oli pandud diagnoosiks gripp,"diagnoosima, dialoog, doos, distants, pedagoog",B2
 diagnoosima,Kõiki reumajuhtumeid ei diagnoosita,"prognoosima, disainima, loosima, noomima, soosima",B2
@@ -261,10 +248,8 @@ disainer,Mööblivabriku disainerid,"isane, viiner, disainima, edasine, insener"
 diskrimineerima,Inimesi ei tohi diskrimineerida nende nahavärvi või veendumuste pärast,"domineerima, diskuteerima, kombineerima, kritiseerima, imiteerima",B2
 diskussioon,Ettekandele järgnes elav diskussioon,"missioon, sessioon, ekskursioon, illusioon, sektsioon",B1
 distants,Missugused distantsid on kavas murdmaasuusatamises,"tants, mõistatus, eksistents, magistrant, mõistmatus",B1
-dogma,Seda seisukohta ei tohi dogmana võtta,"oma, kogema, koguma, koma, kogelema",B2
 doktriin,Kahe koolkonna doktriinid ei erinenudki teineteisest kuigivõrd,"viktoriin, kokaiin, loterii, radioaktiivne, objektiivne",B2
 dokument,Ta kirjutas alla mitmetele dokumentidele oma maja müümise kohta,"monument, dokumenteerima, domeen, moment, konkurent",A2
-doping,Ergutushüüded mõjusid meeskonnale dopinguna,"pinge, leping, otsing, päring, kohting",B2
 dotsent,Töötab TÜ-s dotsendina,"protsent, otsene, otse, sent, tsenter",B2
 draama,Leidis aset verine draama: sõjavägi tulistas demonstrante,"raamat, rabama, rajama, raam, äratama",B1
 dramaatiline,Rõhutab oma sõnu dramaatiliste žestidega,"pragmaatiline, drastiline, matemaatiline, romantiline, temaatiline",B2
@@ -356,7 +341,6 @@ eluliselt,Talupojad olid eluliselt huvitatud maaküsimuse lahendamisest,"olulise
 elund,Süda on pidevalt töötav elund,"sekund, elus, eratund, kulunud, laud",B2
 ema,Püha ema 'abtiss',"tema, ma, emane, imema, keema",A1
 emadepäev,Emadepäeva puhul teevad lapsed emale hommikul pannkooke,"esmaspäev, isadepäev, mardipäev, teabepäev, hingedepäev",B1
-emane,Meie emane koer lasi kodunt jalga,"esmane, maine, magnet, mandel, mander",B1
 emotsioon,Kolme esimese eluaasta jooksul tekivad lapsel positiivsed ja negatiivsed emotsioonid,"evolutsioon, sektsioon, motivatsioon, resolutsioon, revolutsioon",B1
 enam,Tal polnud enam jõudu vastu hakata,"enamik, enamus, kena, laenama, leinama",A2
 enam-vähem,See tüdruk on enam-vähem nagu meie tütar,"vähem, vähemus, vähe, vähemalt, vähenema",B1
@@ -538,7 +522,6 @@ hingeldama,"Mees hingeldab kiirustamisest, suusatamisest, raskest tööst","ving
 hinne,Õpilasel olid ainult head ja väga head hinded,"rinne, ühine, mehine, siinne, sinine",B1
 hirm,Lapsel tuli pimedas hirm peale,"hirmus, hirv, hõim, hirmuma, häirima",B1
 hirmutama,Püssi paugutades hirmutasime karjused ringi minema,"hirmutav, ilmutama, sirutama, virutama, hoiustama",B1
-hispaania,Temas on pisut hispaania verd,"hispaanlane, paanika, plaanima, kampaania, sümpaatia",B1
 hitt,"Loodeti, et uuest filmist, laulust, etendusest kujuneb hitt","titt, mitte, lähistelt, kittel, litter",B2
 hobune,Hüpped üle hobuse,"sombune, homne, hoone, robustne, hommikune",A2
 hoiatus,Tänan sõbraliku hoiatuse eest,"hoius, hoolimatus, hoolimatu, hoolitsus, hüvitus",B1
@@ -555,7 +538,6 @@ hoolitsema,Hoolitseb kui oma lapse eest,"hooplema, hoolitsus, koolitama, lehitse
 hoop,Pähe saadud hoop andis veel aastaid hiljem tunda,"hoopis, hoov, hooplema, ooper, horoskoop",B2
 hoov,"Pime, tolmune, porine, prügitatud hoov","loov, soov, hoovihm, joove, proov",B2
 hord,Turistide hordid ummistasid vanalinna,"kord, orden, vahekord, ühekordne, huumor",C1
-hormoon,Loomade ja lindude jõudlus on mõjustatav söödas leiduvate vitamiinide või hormoonidega,"kroon, tromboon, troon, horoskoop, omapoolne",B2
 hotell,Sain hotellis toa teisele korrusele,"trell, modell, novell, sahtel, teller",A2
 hukka,"Tormis, õnnetuses sai mitu laeva, inimest, looma hukka","hukkama, hukkuma, hulka, hulk, hulkuma",B2
 hukkuma,Näitleja hukkus traagiliselt filmivõtetel,"hulkuma, kukkuma, tukkuma, hukutama, uskuma",B1
@@ -607,7 +589,6 @@ igavesti,See maja jääb küll igavesti püsima,"õigesti, igavik, igavus, salve
 igavlema,Müüja igavleb tühja leti taga,"ringlema, vaevlema, ilma, ilmnema, kaklema",B2
 igavus,Suurest igavusest hakkasime kaarte mängima,"mugavus, sigadus, sügavus, õigus, vigastus",B2
 ige,"Naerab, nii et igemed paljad, paistavad","ilge, tige, õige, ingel, kõige",B2
-ihu,Särk kleepub higise ihu külge,"ilu, isu, kihlus, kihluma, lihtsus",C1
 ikka,Ikka ja jälle tuldi vana teema juurde tagasi,"ikkagi, pikk, tikk, rikkuma, tikkima",A1
 ikoon,Klõpsa ikoonil parema hiireklahviga,"koon, kroon, mikrofon, kolonn, koolon",B2
 illusioon,Tegelik elu purustas nooruki illusioonid,"illustratsioon, visioon, missioon, inflatsioon, intuitsioon",B2
@@ -648,7 +629,6 @@ intensiivsus,"Tähelepanu, töö intensiivsus","positiivsus, mitmekesisus, isese
 interaktiivne,Järjest rohkem kasutatakse õpetamisel interaktiivseid mänge,"negatiivne, intuitiivne, operatiivne, konservatiivne, konstruktiivne",B2
 internetipank,Internetipanga paroolid ja koodid,"internetiühendus, teoreetik, intervjueerima, tähelepanek, investeerima",B1
 intervall,"Intervalle mõõdetakse toonides, tsentides või võnkesageduste suhtena","trall, mineraal, teravalt, orienteeruvalt, intervjuu",B2
-intiimne,Ta ei tahtnud oma intiimseid kehaosi arstile näidata,"sinisilmne, intuitiivne, sinine, taimne, viimne",B2
 intriig,"Sattusin, mind tõmmati teiste intriigidesse, intriigide võrku","lindprii, niigi, triip, investeering, printsiip",B2
 intsident,Ebameeldiv intsident ülemusega,"patsient, koefitsient, president, residents, kinnisidee",B2
 intuitsioon,"Ta intuitsioon ütles, et midagi oli valesti","situatsioon, orientatsioon, ventilatsioon, traditsioon, konstitutsioon",B2
@@ -668,7 +648,6 @@ istung,Istungist võttis osa mitusada saadikut,"sissetung, tung, kviitung, isu, 
 istutama,Istutas kogu peenra roose täis,"uisutama, kustutama, niisutama, paisutama, risustama",B2
 itsitama,Naeru itsitama,"tsitaat, viitama, suitsetama, käsitama, omistama",C1
 iva,Proovis hambaga iva küpsust,"rivaal, rõivas, teivas, vai, kuivama",B2
-jaapani,Mõned sõnad on jõudnud vene keele vahendusel koguni jaapani keelde,"jaapanlane, taani, tagaplaanil, tagaplaanile, kampaania",B1
 jagama,Teise inimesega oma mõtteid jagama,"jaguma, magama, tagama, jama, jaksama",A2
 jah,Eks ta ole õigus jah,"jahe, jahu, jahuma, oja, jahtima",A1
 jahe,"Lähme tuppa, õues hakkab jahe","jahu, juhe, lahe, mahe, pahe",A2
@@ -843,7 +822,6 @@ katk,Sõjad ja katk hävitasid suure osa rahvast,"katki, matk, katkema, katkend,
 katkestama,Liiklus on halbade teeolude tõttu katkestatud,"katsetama, tõkestama, kehtestama, teostama, tõestama",B1
 katki,Tüdruk hammustab niidi katki,"katkine, kohati, katlakivi, kaugeltki, küllaltki",A2
 katma,Suurt osa Gröönimaast katab igijää,"katsuma, kattuma, kütma, matma, kratsima",B1
-katoliiklik,Katoliiklikud iirlased,"katoliku, kiriklik, kliinik, riiklik, polikliinik",B1
 katse,Kuulitõukaja paar esimest katset ebaõnnestusid,"katus, kutse, katseaeg, katsetus, maitse",B1
 katsetama,Moekunstnik katsetas mitmesuguseid värvikombinatsioone,"maitsestama, kavatsema, kehastama, külastama, küpsetama",B1
 kattuma,Põhipunktides tunnistajate seletused kattusid,"mattuma, sattuma, nakatuma, kehastuma, kohastuma",B2
@@ -887,7 +865,6 @@ kell,Ilusa kõlaga kell,"koll, kull, küll, sell, kelluke",A1
 kena,Neil oli omavahel päris kena klapp,"kera, kuna, kenasti, ketas, kevad",A2
 kepp,Teekäijal oli kott seljas ja kepp käes,"kopp, käpp, lepp, sepp, kingsepp",B1
 keraamiline,Keraamilised plaadid põrandale või seintele,"traagiline, kraadine, rahaline, mehaaniline, orgaaniline",B2
-kere,Ta auto kere vajab kapitaalset remonti,"kerge, koer, käre, pere, tere",B2
 kerge,Oma kogu kohta on ta haruldaselt kerge,"kergelt, kõrge, kergesti, kergus, kõrgel",A1
 kergelt,Ta köhatas kergelt ja jätkas siis,"kõrgelt, kergesti, kõrgel, keskelt, kiirelt",B1
 kergendama,"Seljakotid olid liiga rasked, neid tuli kergendada","kõrgendama, kiirendama, nõrgendama, tervendama, kergendus",B2
@@ -979,7 +956,6 @@ klubi,Ta kuulub raamatusõprade klubisse,"ööklubi, kui, kumbki, kolb, kubu",A2
 koalitsioon,Pahempoolsed parteid moodustasid omavahel koalitsiooni,"kollektsioon, kvalifikatsioon, positsioon, kombinatsioon, korporatsioon",B2
 kobras,Küttis taigas soobleid ja kopraid,"koobas, korras, korraks, korts, kontrast",B2
 kodanik,Eesti Vabariigi kodanik,"kodanlik, omanik, osanik, kolmandik, kodanikupäev",B1
-kodanlik,Kodanlik julgus ehk kodanikujulgus,"kohalik, väikekodanlik, konflikt, korralik, kolmik",B2
 koduloom,Koer on meie kõige esimene koduloom,"kondoom, kodumaa, kolm, korduma, loom",B1
 kodune,"Peol oli mõnus, kodune õhkkond","kodunt, kunde, udune, kogunema, kudumine",A2
 kogema,Sellist tunnet koges ta esmakordselt,"kogemata, kogunema, koguma, koma, kogemus",B1
@@ -1128,7 +1104,6 @@ kummitama,See mõte on mind lakkamatult kummitanud,"kummutama, ummistama, uitama
 kummutama,Kallur kummutas koorma keset õue maha,"kuumutama, summutama, kustutama, kuulutama, külmutama",C1
 kuna,Ja kuna ma siis kosja tulen,"kunagi, kurnav, kuni, muna, kurnama",B1
 kunagi,Kunagi me veel läheme mägedesse matkama,"kunagine, kuni, nagi, kusagil, kusagile",A2
-kurat,"Ole vait, kurat, mis sa õiendad","kurt, kurvalt, kurnatud, kurnatus, kurnav",B1
 kurbus,Mu süda on täis kurbust,"kurjus, kursus, kuus, kurss, kuues",B1
 kurg,"Kurg kõnnib heinamaal, konn noka vahel","kuri, kurt, kurv, turg, kuritegu",B1
 kurikuulus,"Kurikuulus kurv, kus on juhtunud palju liiklusõnnetusi","kuulus, kuuldus, kuulsus, riiklus, kuulutus",B2
@@ -1190,14 +1165,12 @@ kõrvetama,"Vaata, et sa liha ei kõrveta","kõrvutama, mõrvama, õpetama, lõd
 kõvasti,Ta karjus üsna kõvasti,"varsti, vastik, vast, valesti, vanasti",B1
 kõõluma,"Laps kõõlus tooliga, kuni kaotas tasakaalu ja kukkus","võluma, külmuma, sõeluma, sõltuma, külmutama",C1
 käepide,"Vihmavarju, mõõga, pussi, höövli, triikraua, sae käepide","käpik, köide, näide, pidev, väide",B1
-kägistama,"Tuul kägistab ust, väravat","vägistama, märgistama, käsitama, käsutama, ärgitama",B2
 käik,Tema esimene käik oli palgata advokaat,"käpik, käsi, käsk, äike, käima",B1
 käima,Tütar käib tal juba viiendas klassis,"käituma, kärpima, käskima, käärima, näima",A1
 käitumine,Tema käitumine alluvate suhtes oli sõbralik,"toitumine, tagumine, välimine, käsitööline, tähistamine",B1
 käivitama,Pumbad käivitame tuulemootoriga,"käivituma, käsitama, päevitama, säilitama, viivitama",B2
 kämping,Matkajad ööbisid kämpingus,"käpik, mingi, pinge, leping, päring",B1
 käpik,"Soojad, villased, hallid, kirjud, mustrilised, kärbsekirja käpikud","käpp, kärpima, käsi, käsk, paik",B2
-käratama,"Tarvitses tal ainult korra käratada, kui kõik sõna kuulasid","äratama, käsiraamat, käsitama, käsutama, nakatama",C1
 käsi,Vanemad jätsid lastele elukutse valikus vabad käed,"käsil, käsk, üksi, käsitsi, käsitöö",A1
 käsitama,Seda nähtust on käsitatud ühekülgselt,"käsutama, väsitama, käsitlema, käskima, näitama",B2
 käsitlema,Riiet käsitleti happega,"küsitlema, näitlema, väitlema, käskima, kätkema",B2
@@ -1313,12 +1286,10 @@ leotama,Määrdunud töörõivaid tuleb enne pesemist kaua leotada,"oletama, ül
 lepinguline,Lepingulised kohustused,"pingeline, loominguline, mänguline, plekiline, oluline",B2
 lepitama,Küll kohus nad lepitab,"levitama, leppima, oletama, paitama, upitama",B2
 leppima,"Vahel nad tülitsevad ja on vihased, siis jälle lepivad","lesima, levima, õppima, lippama, loopima",A2
-lesk,Elas koolipoisina kellegi lese naisterahva juures,"üles, levik, liisk, plekk, süles",B1
 lett,Unustas ostetud kauba letile,"omlett, žilett, lutt, skelett, tablett",B1
 levik,Nakkushaiguse levik tõkestati,"olevik, tulevik, levima, pilvik, päevik",B2
 levima,"Gripp levib piisknakkusena, piisknakkuse teel inimeselt inimesele","levitama, lävima, lihvima, pälvima, olema",B1
 libe,Rehavars on libedaks ja läikima kulunud,"ülbe, libedus, liberaal, libisema, liige",B1
-liberaalne,Liberaalsed vaated,"verbaalne, universaalne, reaalne, neutraalne, virtuaalne",B2
 lift,Kaubad veetakse liftiga keldrikorruse laoruumidest müügisaalidesse,"liit, lint, list, pliit, lihtne",A2
 ligemal,Tool peaks lauale olema ligemal kui praegu,"ligemale, liginema, lugema, ligidal, lähemal",B2
 ligemale,See kala kaalub ligemale 3 kilogrammi,"ligidale, liginema, lähemale, lugema, ligidal",B2
@@ -1342,7 +1313,6 @@ liikvel,"Metsavaht rääkis, et hunte olevat liikvel","liikvele, liiv, liisk, li
 liin,Laev hoidis majaka liini,"liit, liiv, lina, lind, link",A2
 liitlane,Aleksander I liitlased Pühas Liidus,"lätlane, vilistlane, üliõpilane, liitrine, sõltlane",B2
 liitma,Osad liidetakse tervikuks,"liituma, niitma, läikima, viitama, lindistama",A2
-liitumisläbirääkimised,Türgi liitumisläbirääkimised Euroopa Liiduga,"läbirääkimised, märkimisväärne, poliitiline, märkimisväärselt, ujumisriided",B2
 limonaad,Jõime kihisevat limonaadi,"lina, lind, lonkama, ülikond, linnaosa",B1
 limpsima,Naised võivad tundide kaupa juttu ajada ja kohvi limpsida,"lipsama, lisama, lüpsma, püsima, lippama",B2
 lina,Valged värskelt triigitud linad laudadel,"lind, link, linn, lint, lisa",B1
@@ -1383,7 +1353,6 @@ luiskama,"Vaata, et sa luisates kätt vikatisse ei lase","tuiskama, lõikama, vi
 lukk,Lapsi ei tohi omapead koju luku taha jätta,"luuk, pukk, sukk, uluk, lukksepp",A1
 lumi,Öösel hakkas lund sadama,"lumine, ummik, lummav, luteri, olgugi",A1
 lunastama,"Vangi langenud sõdalasi, röövitud naisi, mõrsjaid lunastati","punastama, unistama, unustama, lõbustama, puhastama",B2
-luterlik,Eesti Evangeelne Luterlik Kirik,"tervik, terviklik, tervislik, lutikas, murelik",B1
 lutt,"Lutt tõmmatakse pudeli suule, luti otsa tehakse tulise nõelaga auk","mutt, nutt, vutt, lõputult, ruttu",B2
 luu,Muistne inimene valmistas luust ehteid,"luud, luuk, luup, luule, luure",A2
 luuletus,"Lüüriline, eepiline, vabavärsiline luuletus","muutus, oletus, ulatus, unetus, uputus",B1
@@ -1528,14 +1497,11 @@ muide,"Muide, kas Jaan on abielus või poissmees","muie, muidu, munder, muidugi,
 muidu,Ta on muidu täitsa sõbralik,"muidugi, murdu, muu, udu, muie",B1
 muigama,See mõte ajas muigama,"uitama, mustama, upitama, muundama, mõjutama",B2
 mulje,"Püüab jätta endast head, meeldivat, soodsat, sümpaatset muljet","mull, mullune, mure, muulane, ulme",B1
-muna,Putukad arenevad harilikult munast,"munema, munk, munarakk, muundama, uinak",A1
-munema,Kägu muneb teiste lindude pessa,"ununema, uuenema, nemad, unelm, muundama",B2
 murdma,Murdsin sokolaaditahvli tükkideks,"murduma, murdu, muundama, määrduma, muretsema",B1
 mure,Muredad ning jahused kartulid,"murel, murre, muretu, muru, murelik",A2
 murel,"Ostsin, korjasin aiast mureleid","murelik, murre, muretu, muskel, muru",B1
 murelik,"Rasked ja murelikud ajad, sõja-aastad","muutlik, repliik, murre, nelik, vaimulik",B1
 muru,Murul käimine keelatud,"muu, mõru, puru, mõjur, purju",B1
-musi,Kallistas ja andis põsele musi ka,"muusik, must, usin, muusika, mustikas",B1
 musitseerima,"Õhtuti musitseerisime oma lõbuks: Jaan mängis klaverit, Helle viiulit ning mina laulsin","tsiteerima, müsteerium, sorteerima, stažeerima, produtseerima",B2
 mustand,"Kirja, kirjandi, avalduse, artikli mustand","mustlane, puhtand, vastand, mustikas, omand",B2
 mustikas,Mustikas juba õitseb,"muusika, müstika, nutikas, rusikas, sitikas",B1
@@ -1679,7 +1645,6 @@ okupatsioon,50 aastat kestnud okupatsioon,"operatsioon, populatsioon, provokatsi
 olema,"Olen tööl, reisil, praktikal","olematu, olenema, oletama, osalema, taotlema",A1
 olemus,Elu olemus,"oletus, olevus, ülemus, olemuslik, tulemus",B2
 olenema,Perekonna käekäik olenes isa teenistusest,"tulenema, olenevalt, poleemika, soojenema, oletama",B1
-oligarh,Seal maksavad isegi uusrikkad ja oligarhid nõukogudeaegse poliitilise kunsti eest ülihästi,"sigar, solidaarne, olümpia, roolima, sigaret",B2
 olu,Tuleb arvestada kohalikke olusid,"onu, osalus, poolus, õlu, olukord",B2
 olukord,Rahvusvaheline olukord on praegu pinev,"tookord, omakorda, sisukord, seisukord, rekord",A2
 oluline,Eriti oluline on C-vitamiin lastele,"ülioluline, tuline, oluliselt, vastuoluline, osaline",A1
@@ -1710,7 +1675,6 @@ orel,"Kirik, kool sai uue oreli","vormel, relv, toel, tore, toorelt",B1
 orgaaniline,Orgaanilised setted,"plaaniline, traagiline, pragmaatiline, rahaline, originaalne",B2
 organisatsioon,Loodi uus üliõpilaste organisatsioon,"signalisatsioon, orientatsioon, traditsioon, variatsioon, regulatsioon",A2
 orienteeruma,Laev orienteerus tuletorni järgi,"orienteeruvalt, sorteerima, varieeruma, registreeruma, riietuma",B2
-orjus,Astus välja orjuse ja rõhumise vastu,"purjus, soojus, raju, rusu, toru",B2
 orkaan,Orkaani purustused,"torkama, oskama, romaan, vokaal, ärkama",B2
 orkester,Tantsuks mängis klubi orkester,"preester, register, reserv, röster, rest",A2
 osa,Lahutas luku osadeks ja pani uuesti kokku,"osak, osas, osav, otsa, sa",A1
@@ -1739,7 +1703,6 @@ paber,Poes oli müügil seitset sorti paberit,"WC-paber, pulber, pael, pahe, pal
 padi,Idamaadel istutakse põrandal patjadel,"pai, paik, pidi, paiku, paindlik",A1
 padrun,Karbitäis vaskselt läikivaid padruneid,"pasun, pruun, paraku, patune, sidrun",B2
 pael,Kapteni varrukail oli kolm kuldset paela,"paneel, pardel, pahe, pala, pale",B2
-pagan,"Muistsed eestlased olid paganad, kes kummardasid loodusjõude","pagar, pagas, plaan, paganlik, pagulane",B2
 pagema,Kõik pagesid vihmavarju,"panema, pugema, paremal, raugema, parem",C1
 paha,"See on halva kuulsusega koht, kus võib paha aimamata kakluse ohvriks sattuda","pahane, pahe, pala, püha, raha",B2
 pahandama,"Tädi pahandab, et teeme põrandale poriseid jälgi","parandama, taandama, pakendama, parendama, pärandama",B1
@@ -1792,7 +1755,6 @@ pasta,Pasta valamute puhastamiseks,"plast, pastakas, pastor, pistma, pärast",B1
 pasun,Poiss keeras lepakoorest pasuna,"patune, pauk, paus, pesu, pung",B2
 patarei,Kassettmagnetofon töötab nii võrguvoolul kui patareidel,"peavari, patriarh, patrioot, tarbeasi, tarne",B2
 patent,"Ta võttis, sai oma leiutisele patendi","patsient, peatselt, protsent, patune, peatne",B2
-patriarh,Vene õigeusu kirik eesotsas Moskva ja kogu Venemaa patriarhiga,"patrioot, praktika, pisar, tatar, trahv",B2
 patrull,Käib õhtuti patrullis,"pull, rull, torupill, trall, trell",B2
 patsutama,"Sõbralikult patsutas ta mulle õlale, seljale","ratsutama, plaksutama, taltsutama, puhastama, punastama",C1
 patune,Tema on neil väga patuste meeste kirjas,"peatne, tunne, praegune, pealetung, peatus",B2
@@ -1821,7 +1783,6 @@ pendel,"Füüsikaline, matemaatiline pendel","pudel, redel, sedel, vedel, veekin
 pension,Elab ainuüksnes pensionist,"pensionär, pretensioon, persoon, personal, presentatsioon",A2
 pensionär,Töötas veel ka pensionärina,"pretensioon, persoon, seenior, sponsor, presentatsioon",A2
 pere,Klassi õpilaste üksmeelne pere,"tere, perearst, perekond, peremees, poeem",A1
-peremees,"Peremees peab teadma, mis inimesed ta majas elavad","õemees, premeerima, protees, ärimees, preester",A2
 perspektiiv,Õiges perspektiivis joonistatud vaade,"perspektiivitu, perspektiivikas, respekt, prestiiž, produktiivne",B2
 perspektiivitu,Perspektiivitu vaidlus on mitte kuhugi viiv,"prostituut, piiritu, pilvitu, respekt, positiivsus",B2
 pesa,Sulgedega vooderdatud pesas oli neli linnupoega,"pesema, pesu, pusa, petis, petma",A2
@@ -1840,7 +1801,6 @@ pihtima,"Kutsuge preester, haige tahab pihtida","sihtima, pihtimus, printima, pr
 pihtimus,Need kirjad on omamoodi liigutavad pihtimused,"puhtus, piim, pimedus, põhimäärus, pärimus",C1
 pihustama,Plahvatus pihustas osa kivimeid tolmuks,"põhjustama, pikutama, puistama, pistma, pilgutama",B2
 piibel,Kokaraamat oli nende kodu piibel,"piibeleht, piksel, pisike, tiitel, põhiliselt",B2
-piiluma,Taskust piilus punase raamatu serv,"pilduma, piinlema, piirduma, siluma, pilgutama",C1
 piim,Mõned seened ajavad murdmisel piima välja,"piin, piip, piir, piki, pime",A1
 piirama,Eestit piirab kahest küljest meri,"piiramatu, piisama, piirduma, piiriala, piirnema",B1
 piiramatu,Ameerikat loeti piiramatute võimaluste maaks,"piiramatult, piraat, piraatlus, piiritu, piisama",B2
@@ -1868,7 +1828,6 @@ pingutama,Rohke lugemine pingutab silmi,"vangutama, õigustama, upitama, uputama
 pink,Kohver on vagunis pingi all,"pirn, sink, õpik, pintsak, pisik",B1
 pintsel,Maalis peene pintsliga portselanile mustrit,"pitser, prints, printsess, printer, pitsa",B1
 pisar,Nägin ta silmis pisaraid,"pitsa, pistma, pitsat, pitser, pisiasi",B1
-pissima,Ants on jälle öösel alla pissinud,"pressima, pritsima, pärssima, pistma, püsima",B2
 pistik,"Unustas triikraua, puurmasina pistiku pesast välja tõmmata","plastik, ristmik, vistrik, pisut, püsti",B2
 pistma,"Nõelaga, noaga, piigiga, oraga pistma","puistama, päästma, ristima, upitama, ponnistama",B2
 pitser,Neil vanadel majadel on kõdunemise ja mahajäetuse pitser,"printer, politsei, pleier, prints, printsess",B2
@@ -1887,8 +1846,6 @@ poksima,Kitsetalled poksivad isekeskis,"pookima, toksima, püsima, poseerima, po
 poliitik,Eesti poliitikud olid kõik presidendi vastuvõtul,"poliitika, sisepoliitika, poliitiline, polikliinik, politseinik",A2
 poliitika,Ta suhtub poliitikasse ettevaatlikult,"sisepoliitika, välispoliitika, poliitiline, polikliinik, politseinik",A2
 polikliinik,Lähen polikliinikusse analüüse andma,"politseinik, volinik, põliselanik, volikiri, proovikabiin",B1
-pommitama,Ladu pommitati õhust,"popitama, postitama, ummistama, upitama, ponnistama",B2
-poni,"Lapsed sõidavad poniga, ratsutavad poni seljas","pori, poogen, poolik, pronks, pungil",B2
 poogen,Viiuldaja tõmbab poognaga üle keelte,"poole, spioon, poolenisti, pooleks, pooleli",B2
 pool,Istusime alati kiriku paremal poolel,"poola, poole, poolt, poolik, poolus",A1
 poole,"Linna poole minema, liikuma","pooleks, pooleli, poolest, poolt, pooleldi",A2
@@ -1937,7 +1894,6 @@ pugema,"Poen palitusse, riietesse, vammustesse","purema, puhkema, raugema, sulge
 puhastama,Puhastasin põhjalikult vaiba,"punastama, puistama, purustama, pussitama, rahastama",B1
 puhkama,Tahan päeva väsimust puhata,"puhkema, purskama, puhuma, õhkama, uhkeldama",A1
 puhtus,Puhtusest valendavad põrandalauad,"uputus, puus, punetus, putukas, suhtlus",B1
-puhuma,"Puhun võilille ebemeid, seebimulle","punuma, uhtuma, puuduma, puurima, puutuma",B1
 puistama,Puistasin kadunud akti otsides pabereid,"uisutama, unistama, uitama, punastama, punnitama",C1
 puljong,Sellest puljongist teeme homme klimbisuppi,"pung, pungil, pungis, põleng, salong",B2
 pumpama,Kelder pumbati veest tühjaks,"surmama, uputama, punetama, purskama, põrutama",B2
@@ -1968,8 +1924,6 @@ põlgama,"Ta on naistekütt, kes ei põlga ära ka abielunaisi","pügama, põrka
 põline,Nad on põlised Lõuna-Eesti põllumehed,"tõeline, õhuline, põnev, sõjaline, täpiline",C1
 põnevik,"Joseph Rubeni psühholoogilise põneviku ""Vaenlasega voodis"" peategelane on börsimaakler Martin","päevik, põnevus, õnnelik, põrnikas, sõnnik",B2
 põrand,Toas on vaip põrandal,"pärand, rand, võrrand, pärandus, põrandaalune",A1
-põrandaalune,Mees elas kaks aastat põrandaalusena,"radikaalne, skandaalne, pärandama, ratsionaalne, võõrandamine",B2
-põrgu,Siberi laagrite põrgust pääsesid vähesed,"põruma, põrkuma, põrm, põud, pärg",B2
 põruma,"Uks langeb kinni, et seinad põruvad","põrutama, tõrjuma, tõrkuma, võrduma, võrsuma",C1
 põrutama,"Ta on vist peast põrutada saanud, ajab nii imelikku juttu","võõrutama, ruttama, uputama, õhutama, võõrustama",B2
 põud,Ilm näis põuale pöörduvat,"õppejõud, õu, õudne, õudus, rõuged",B1
@@ -1981,7 +1935,6 @@ pärast,"Algul kuulasin raadiot, pärast veel lugesin pisut","seepärast, päris
 pärg,Hauaküngas kattus lillede ja pärgadega,"päring, päri, pärl, pärm, pärn",B2
 pärilikkus,Pärilikkuse kandjaks on nukleiinhapped,"rikkus, terviklikkus, pärimus, riiklus, pühalikkus",B2
 päriselt,"Ma ei saa aru, mida sa päriselt tahad","äärmiselt, väliselt, värskelt, äkitselt, pööraselt",B2
-pärisori,Pärimuse järgi oli Mart vanaisa mõisa pärisori,"ärakiri, päritolu, risti, üpris, vägisi",C1
 päts,Perenaine vormis leivataignast ilusad piklikud pätsid,"pätt, pääs, pääse, rätsep, tähtis",B2
 pätt,Mees jõi ennast pätiks,"päästevest, päästma, sättima, pääs, rott",B2
 päädima,"Peaaegu alati päädis see jutuga, et olen pealinnast","pääsema, päästma, rääkima, väärima, äädikas",C1
@@ -2039,7 +1992,6 @@ raske,Hobune veab rasket koormat,"raskelt, raskus, värske, raskendama, raskusas
 raskelt,Praam istub vees raskelt ja kindlalt,"raudselt, teraselt, värskelt, reaalselt, sarnaselt",B1
 raskus,Kangi abil saab suuri raskusi tõsta,"rass, värskus, raskusaste, tasku, trass",B1
 raskusaste,Kuulmishäired võivad olla erineva raskusastmega,"riskantne, valusasti, rassima, rassism, rasvane",B2
-rass,"Geograafilised, ökoloogilised rassid","trass, rasv, tass, rassima, rassism",B1
 rasv,Ostis paki rasva,"ravi, rasvane, rasvatu, ratas, ravim",B1
 rasvane,Naise rasvase käsivarre ümber kõlksusid kuldvõrud,"tasane, rasvatu, reaalne, taevane, vastane",B1
 ratas,Autol tuli üks ratas alt ära,"vastas, äratus, ratastool, riiakas, taas",A1
@@ -2095,7 +2047,6 @@ rohi,Karjus astus läbi kastemärja rohu,"rohima, umbrohi, unerohi, rohke, rohke
 rool,Alkoholijoobes ei tohi rooli taha istuda,"roos, tool, vool, roolima, roosa",B1
 roomama,Koopasse pääses ainult roomates,"surmama, tormama, voolama, roostetama, roosa",B1
 roostetama,Pikal kriisiperioodil laskis kirjanik oma sulge roostetada,"sätestama, ruttama, soetama, teatama, toetama",B2
-ropendama,"Nii kui ta purju jääb, hakkab, kukub hirmsasti ropendama","rändama, ründama, soojendama, suurendama, tervendama",B2
 rula,"Toodetakse rulasid nii kiirlaskumiseks, tünnisõiduks kui ka slaalomiks","rull, sula, rullima, rumal, rumalalt",B2
 rullima,Haavatul õnnestus end kõhuli rullida,"rulluisutama, sallima, tellima, rumal, üllitama",B2
 rumalalt,Seda tegi ta küll rumalalt,"rumalus, rõõmsalt, säravalt, teravalt, valusalt",B1
@@ -2170,7 +2121,6 @@ seisukoht,Kas sul on kontserdile iste- või seisukoht,"seisukord, sihtkoht, sisu
 seisund,Haige seisund muutus järjest viletsamaks,"seisus, sekund, sisu, sisukord, sisuline",B1
 sekka,"Nähes poisse rüselemas, kargas kohe sekka","sekkuma, seksikas, seks, seksima, sekt",B2
 sekkuma,"Rahvas ootab, et asjasse sekkuks valitsus","uskuma, seksima, selguma, sõeluma, tekkima",B1
-seksuaalne,Seksuaalsest külmusest on võimalik jagu saada,"sekundaarne, spetsiaalne, visuaalne, skandaalne, sotsiaalne",B1
 sektsioon,Kultivaator koosnes viiest sektsioonist,"sessioon, spekulatsioon, tsoon, versioon, situatsioon",B2
 seletama,Kuidas sa seletad luuletuse neid ridu,"seletamatu, selgitama, soetama, ületama, seltsima",B1
 selgima,"Võttis aega, enne kui kohin kõrvades lakkas ja pea selgis","selgitama, selguma, seltsima, solkima, sulgema",C1
@@ -2231,9 +2181,6 @@ solvang,"Teenimatu, alatu, ränk solvang","vang, solvuma, soolane, soomlane, spo
 soojalt,Ta võttis meid soojalt vastu,"soolo, soovitavalt, sujuvalt, soojenema, soojustus",B2
 soojendama,Ta hinge soojendavad vaid mälestused,"soojenema, soojendus, sätendama, süvendama, soojustama",B2
 soolane,Supp on minu jaoks liiga soolane,"soomlane, sooline, sulane, sportlane, sümboolne",B1
-sooline,Ei tasu alahinnata sooliste stereotüüpide mõju,"soomlane, sümboolne, suuline, taoline, usuline",B2
-soome,Tüüpiline napisõnaline soome mees,"soomlane, soomuk, soome-ugri, soosima, soov",A1
-soome-ugri,"Soome-ugri hõimud, usund, algkeel","soomuk, soomlane, sooritus, sooritama, soovimatu",B2
 sooritama,Kõik linnud sooritavad pikamaalende vastu tuult,"soovitama, sosistama, toonitama, soosima, soovima",B1
 soov,See oli tema viimane soov,"soovima, soovitav, soovitus, tsoon, soovimatu",A1
 soovima,Õed soovisid teineteisele head ööd,"soovimatu, soovitama, soovitav, süüvima, voolima",A1
@@ -2358,7 +2305,6 @@ tampima,"Tambib pudrunuiaga kartuleid puruks, pudruks","trampima, tapma, tankima
 tankima,Enne starti peab lennuk tankima,"tarnima, taunima, tantsima, tankla, tarbima",B2
 tants,Õhtu sisustati laulu ja tantsuga,"tantsija, tantsima, teatis, tuntus, tantsupidu",A1
 taotlema,Ta taotles raha laenuks,"töötlema, vaatlema, toitma, tootma, ütlema",B1
-tapma,Kuningat ei saa ometi emandaga tappa,"trampima, tasuma, teadma, trauma, tänama",B1
 tariif,Öösiti kehtib elektri tarbimisel madalam tariif,"triip, tarvilik, tarvis, triumf, taristu",B2
 tarkus,Valis esimese külvipäeva isaisade tarkuse järgi,"taru, tsirkus, tasku, taust, tarvis",A2
 tarnima,Kohviube tarnitakse meile Brasiiliast,"taunima, turnima, treenima, tirima, tarvitama",B2
@@ -2542,7 +2488,6 @@ unustama,Püüab raskeid aegu unustada,"unustamatu, uudistama, uputama, vahustam
 uputama,Ta uputas oma mured alkoholi sisse,"uudistama, vapustama, õhutama, õpetama, uuendama",B2
 usaldama,Uus valimiskord peaks rahvast rohkem usaldama,"usaldamatus, valdama, valama, usaldus, vallandama",B1
 usaldusväärne,Koer oli oma peremehele usaldusväärne,"usaldusväärsus, usuteadus, vääriline, valdus, usuvabadus",B2
-usklik,Ta on läbinisti usklik inimene,"õiguslik, vooruslik, äärmuslik, uuenduslik, väärtuslik",B1
 uskumatult,Poiss jäi talle jahmunult ja uskumatult otsa vahtima,"uskumus, uuskasutus, usutlus, vahetult, valusalt",B2
 usutavasti,Sa oled usutavasti selle juba ära teinud,"uusaasta, väidetavasti, usuteadus, valusasti, vastavalt",B2
 uudis,Loen ajalehest tänaseid uudiseid,"uus, uudsus, uudishimu, uudistama, uuendus",A2
