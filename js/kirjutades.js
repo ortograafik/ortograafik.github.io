@@ -1,10 +1,10 @@
-let pathToVocabulary = "/data/sõnavara_määratlustega.csv"
+let pathToVocabulary = "/data/sõnavara_definitsioonidega.csv"
 let inputField = document.getElementById("input_field");
 let guessButton = document.getElementById("guess_button");
 
 function setupRound() {
   answer = vocabulary[currentRound]["SÕNA"];
-  setAudio(vocabulary[currentRound]["SÕNA"]+". "+vocabulary[currentRound]["MÄÄRATLUS"]+".");
+  setAudio(vocabulary[currentRound]["SÕNA"]+". "+vocabulary[currentRound]["DEFINITSIOON"]+".");
 };
 
 function startRound() {
