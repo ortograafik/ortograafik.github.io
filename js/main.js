@@ -166,6 +166,7 @@ function endGame() {
     for (let i = 0; i < descriptors.length; i++) {
       var desc = document.createElement("h2");
       var text = document.createTextNode(descriptors[i]);
+      desc.classList.add("descriptor");
       desc.appendChild(text);
       resultsArea.children[i].appendChild(desc);
     };

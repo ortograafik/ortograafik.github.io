@@ -166,6 +166,11 @@ button, #begin_button {
   cursor: auto;
 }
 
+.descriptor {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
 @media screen and (max-width: 500px) {
   #content {
     max-width: 100%;

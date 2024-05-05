@@ -10,6 +10,9 @@ function setupRound() {
 function startRound() {
   audioButton.disabled = false;
   guessButton.disabled = false;
+  if (selectAutoplay.checked == true) {
+    inputField.focus();
+  };
 };
 
 function checkEnter(event) {
